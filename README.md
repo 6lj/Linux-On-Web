@@ -35,3 +35,8 @@ All rights reserved.
 This project, including its name **Linux On Web**, design, implementation, and deployed service, is the intellectual property of **Mohammed Al Abyah / ENDUP**. No part may be copied, modified, distributed, or presented as another person’s or organization’s work without **prior written permission** from the copyright holder.
 
 Unauthorized use, reproduction, or misattribution is prohibited.
+
+## Contact
+
+**Email:** [q@q5.qa](mailto:q@q5.qa)
+
