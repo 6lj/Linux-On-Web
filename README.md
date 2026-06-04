@@ -1,0 +1,33 @@
+# Linux On Web
+
+**Apr 2026 – Present**
+
+Linux on the web supports all known tools.
+
+**Live:** [https://linux.q5.qa](https://linux.q5.qa)
+
+---
+
+## Overview
+
+Linux On Web brings a full Linux experience to the browser so you can use familiar tools from the web—no local install required.
+
+---
+
+## Source code
+
+The source code for this project is **not public**. It stays closed to protect the developer’s work, preserve quality and continuity of the product, and **prevent others from claiming or reusing this work without permission**.
+
+If you are interested in collaboration or licensing, contact the rights holder below.
+
+---
+
+## License
+
+Copyright © 2026 **Mohammed Al Abyah** — **ENDUP**.
+
+All rights reserved.
+
+This project, including its name **Linux On Web**, design, implementation, and deployed service, is the intellectual property of **Mohammed Al Abyah / ENDUP**. No part may be copied, modified, distributed, or presented as another person’s or organization’s work without **prior written permission** from the copyright holder.
+
+Unauthorized use, reproduction, or misattribution is prohibited.
