@@ -10,7 +10,7 @@ Linux on the web supports all known tools.
 
 ## Overview
 
-Linux On Web runs a full Linux environment in the browser Disk images and ISOs are served, so the emulator can boot and read storage efficiently—without R2. 
+Linux On Web runs a full Linux environment in the browser Disk images and ISOs are served, so the emulator can boot and read storage.
 
 ---
 
